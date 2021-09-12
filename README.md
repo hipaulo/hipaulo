@@ -1,4 +1,4 @@
-### Olá, me chamo Paulo Victor Melo, é um prazer! 👋
+### Olá, me chamo Paulo Victor Melo, seja bem vindo ao meu perfil! 👋
 
 - 🔭 Estou finalizando meu estágio junto ao Tribunal Regional Eleitoral da Bahia na área de Infraestrutura.
 - 🌱 Estou terminando um curso de Java e criando pequenas aplicações com a linguagem, porém, pretendo migrar para o PHP novamente.
