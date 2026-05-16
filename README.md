@@ -32,9 +32,9 @@ Atualmente em **transição para Análise de Dados**, unindo minha experiência 
 
 | Projeto | Descrição | Link |
 |:---|:---|:---|
-| **Gatitos PetShop** | Primeiro dashboard: faturamento por bairro, evolução temporal de vendas | ✅ Concluído | [Ver dashboard](https://app.powerbi.com/view?r=...) / [Repositório](https://github.com/hipaulo/petshop-powerbi-dashboard) |
-| **Opuline Cosméticos** | Dashboard de vendas com análise de metas, KPIs e evolução anual | ✅ Concluído | [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVkMmUyMjMtYzBlZi00MTYxLWFmYWQtNjMyNjA0NDI4MGZhIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9) / [Repositório](https://github.com/hipaulo/petshop-powerbi-dashboard) |
-| **ETL Power Query** | Limpeza e transformação de dados com Power Query (o curso mais desafiador até agora) | ✅ Concluído (com refinamento futuro) | [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGRjNmQ4ZDEtYmI3YS00NWQ1LTg2ZmYtMmM4NmUwMGFkNDJhIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9) / [Repositório](https://github.com/hipaulo/petshop-powerbi-dashboard) |
+| **Gatitos PetShop** | Primeiro dashboard: faturamento por bairro, evolução temporal de vendas |  [Ver dashboard](https://app.powerbi.com/view?r=...) / [Repositório](https://github.com/hipaulo/petshop-powerbi-dashboard) |
+| **Opuline Cosméticos** | Dashboard de vendas com análise de metas, KPIs e evolução anual | [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVkMmUyMjMtYzBlZi00MTYxLWFmYWQtNjMyNjA0NDI4MGZhIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9) / [Repositório](https://github.com/hipaulo/petshop-powerbi-dashboard) |
+| **ETL Power Query** | Limpeza e transformação de dados com Power Query (o curso mais desafiador até agora) | [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGRjNmQ4ZDEtYmI3YS00NWQ1LTg2ZmYtMmM4NmUwMGFkNDJhIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9) / [Repositório](https://github.com/hipaulo/petshop-powerbi-dashboard) |
 
 ### 🔹 Testes Automatizados com Cypress
 Conjunto de testes E2E para fluxos comuns de aplicações web.  
