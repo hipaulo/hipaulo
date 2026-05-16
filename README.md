@@ -1,4 +1,4 @@
-# Olá! Eu sou Paulo Victor Melo 👋
+# Olá! Eu sou Paulo Victor Melo
 
 Profissional de Tecnologia com **quase 7 anos de experiência** nas áreas de Suporte Técnico (N1/N2), Infraestrutura, Testes de Software (QA) e automação com Cypress.
 
